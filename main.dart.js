@@ -65767,7 +65767,7 @@ n.EA()
 s=n.ko()?2:4
 break
 case 2:s=5
-return A.ai(A.ave(A.wx("YOUR_SCRIPT_URL_HERE"+("?name="+q.e.a.a+"&sex="+q.f.a.a+"&age="+q.r.a.a))),$async$rg)
+return A.ai(A.ave(A.wx("https://abdullac.github.io/-form-google-sheet-flutter/"+("?name="+q.e.a.a+"&sex="+q.f.a.a+"&age="+q.r.a.a))),$async$rg)
 case 5:p=b
 if(p.b===200){A.A3(B.bC.IX(0,A.av0(A.atc(p.e).c.a.h(0,"charset")).e7(0,p.w),null))
 o="Seccessed"}else o="failed"
